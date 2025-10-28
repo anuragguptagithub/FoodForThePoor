@@ -1,0 +1,5 @@
+{
+  "name": "NourishNet",
+  "description": "A web application that connects restaurants with surplus food to the needy. Restaurants can list available food items, and people in need can find and claim them. An AI-powered feature suggests simple meal ideas from the available items.",
+  "requestFramePermissions": []
+}
